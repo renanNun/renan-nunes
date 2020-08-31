@@ -1,5 +1,5 @@
 <h2>Hi, I'm Renan Nunes! <img src='https://media.giphy.com/media/d5ZvVMp2RPkpicojS4/giphy.gif'  width=70/></h2>
-
+<img align='right' src="https://media.giphy.com/media/RKTWktLqvx4Qb6KwVG/giphy.gif" width="230">
 <p><em>Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora</a><img src="https://media.giphy.com/media/j3t6eQRPwl1DifOBn4/giphy.gif" width="30">
 </em></p>
 
