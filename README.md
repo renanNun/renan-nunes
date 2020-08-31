@@ -7,5 +7,14 @@
 [![Linkedin: Renan Nunes](https://img.shields.io/badge/-RenanNunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-nunesufjf/)](https://www.linkedin.com/in/renan-nunesufjf/)
 [![GitHub Renan](https://img.shields.io/github/followers/Renan?label=follow&style=social)](https://github.com/renanNun)
 
+### A little more about me...
+
+```javascript
+ const Renan = {
+    code: [Javascript,HTML, CSS, C++, Python, Java],
+    tools: [Vue,Node]
+ }
+```
+
 
 ![RenanNun GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanNun&show_icons=true)
