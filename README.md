@@ -7,14 +7,8 @@ Prazer, meu nome é Renan Nunes, sou um estudante de Ciência da computação pe
 Eu ainda não possuo um site com domínio próprio, então se quiser saber um pouco mais sobre mim pode me acompansar no [linkedlin](https://www.linkedin.com/in/renan-nunesufjf/). 
 :smiley:
 <code><hr></code>
-## Meus repositórios favoritos
 
--
--
--
--
-
-### LINGUAGENS E FERRAMENTAS
+## LINGUAGENS E FERRAMENTAS
 
 
 
