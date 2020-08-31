@@ -2,7 +2,7 @@ README.md
 
 # Olá 👋
 
-![.](http://gph.is/2s4rv0N)
+![.](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 Prazer, meu nome é Renan Nunes, sou um estudante de Ciência da computação pela [Universidade Federal de Juiz de Fora](https://www2.ufjf.br/ufjf/). Eu gosto de ler mangás, ver animes e filmes no meu tempo livre.
 
