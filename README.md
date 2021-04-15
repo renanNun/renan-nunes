@@ -11,8 +11,8 @@
 
 ```javascript
  const Renan = {
-    code: [Javascript,HTML, CSS, C++, Python, Java],
-    tools: [Vue,Node]
+    code: [Javascript,HTML, CSS, C++, Python],
+    tools: [Laravel]
  }
 ```
 
