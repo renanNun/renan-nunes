@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Renan Nunes](https://img.shields.io/badge/-RenanNunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-nunesufjf/)](https://www.linkedin.com/in/renan-nunesufjf/)
-[![GitHub Renan](https://img.shields.io/github/followers/Renan?label=follow&style=social)](https://github.com/renanNun)
+[![GitHub Renan](https://img.shields.io/github/followers/RenanNun?label=follow&style=social)](https://github.com/renanNun)
 
 ### A little more about me...
 
