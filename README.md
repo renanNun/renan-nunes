@@ -17,11 +17,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/yaghomattos/github-readme-stats">
+  <a href="https://github.com/renanNun/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=renanNun&count_private=true&show_icons=true&theme=tokyonight" width="438px" />
   </a>
 
-  <a href="https://github.com/yaghomattos/github-stats">
+  <a href="https://github.com/renanNun/github-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanNun&layout=compact&theme=tokyonight" height="180px"/>
   </a>
 </p>
