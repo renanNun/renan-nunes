@@ -8,12 +8,6 @@
 
 ### A little more about me...
 
-```javascript
- const Renan = {
-    code: [Javascript,HTML, CSS, C++, Python],
-    tools: [Laravel, Nodejs]
- }
-```
 
 
 <p align="center">
