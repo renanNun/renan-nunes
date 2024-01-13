@@ -1,27 +1,8 @@
-import asyncio
 import os
 from jinja2 import Environment, FileSystemLoader
-from dotenv import load_dotenv
-
-import aiohttp
-from github_stats import Stats
 
 
-async def main():
-
-    load_dotenv()
-
-    access_token = os.getenv("ACCESS_TOKEN")
-    user = os.getenv("GITHUB_ACTOR")
-
-    if access_token is None or user is None:
-        raise RuntimeError(
-            "ACCESS_TOKEN and GITHUB_ACTOR environment variables cannot be None!"
-        )
-        
-    async with aiohttp.ClientSession() as session:
-        s = Stats(user, access_token, session)
-        print(await s.to_str())
+def main():
 
     # Setup Enviroment
     env = Environment(loader=FileSystemLoader("template"))
@@ -36,4 +17,4 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+   main()
